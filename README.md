@@ -1,3 +1,3 @@
 # Data Visualization Library Using Python and Web Assembly
 
-This project will utilize Rust for the core logic, WebAssembly to compile Rust to run in the browser, and JavaScript/HTML/CSS for the frontend to interact with the WebAssembly module and display visualizations.
+In this project, I am creating a custom data visualization library using Python and WebAssembly, with HTML templating provided by Jinja. The goal is to leverage the power of Python for data processing and visualization, and to compile it into WebAssembly for efficient, high-performance rendering in the browser.
